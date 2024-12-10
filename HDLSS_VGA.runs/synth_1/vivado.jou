@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:36:09 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu Nov 21 16:55:44 2024
+# Process ID: 269575
+# Current directory: /home/students/Desktop/verilog/HDLSS_VGA/HDLSS_VGA.runs/synth_1
+# Command line: vivado -log vga_test.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vga_test.tcl
+# Log file: /home/students/Desktop/verilog/HDLSS_VGA/HDLSS_VGA.runs/synth_1/vga_test.vds
+# Journal file: /home/students/Desktop/verilog/HDLSS_VGA/HDLSS_VGA.runs/synth_1/vivado.jou
+# Running On        :dvlsi-H570M-R
+# Platform          :Ubuntu
+# Operating System  :Ubuntu 22.04.5 LTS
+# Processor Detail  :Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz
+# CPU Frequency     :2902.644 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :16584 MB
+# Swap memory       :2147 MB
+# Total Virtual     :18732 MB
+# Available Virtual :13416 MB
+#-----------------------------------------------------------
+source vga_test.tcl -notrace
